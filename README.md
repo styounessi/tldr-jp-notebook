@@ -11,7 +11,7 @@ This interactive notebook uses 🤗 Hugging Face Transformers & BART (Bayesian A
 You will need these libraries:
 - [ipywidgets](https://pypi.org/project/ipywidgets/)
 - [Transformers](https://pypi.org/project/transformers/)
-- [https://pypi.org/project/torch/](https://pypi.org/project/torch/)
+- [PyTorch](https://pypi.org/project/torch/)
 
 Since this is a Jupyter Notebook, it will obviously need to be run in some kind of Jupyter environment but the `requirements.txt` does not specify one because there are many different options to choose from. This was developed and tested in JupyterLab but it can also be tried in Jupyter Notebook, Visual Studio Code, Google Colab, etc. However, since widgets are used very prolifically, results may vary significantly in each environment. 
 
