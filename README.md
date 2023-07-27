@@ -21,4 +21,4 @@ If you would like to try it in Google Colab, you can do so using this [link](htt
 
 > In Jupyter notebooks and Google Colab, using an exclamation mark (!) before a command in a code cell allows you to run shell commands directly from the notebook.
 
-Those versions are not explcitily required but they are what that this notebook was developed and tested with.
+Those versions are not explcitily required but they are what this notebook was developed and tested with.
